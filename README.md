@@ -13,15 +13,21 @@ The exrcices cover the following topics:
 - **Functional Dependencies:** Finding and identifying functional dependencies in the database, analyze their impact on the data, and design the database accordingly.
 - **Data Types:** Choosing the appropriate data types for each attribute in the database to ensure efficient storage and retrieval of data.
 
+## Assets & Files
+
+You can find the exercices & problem statements in the `problems.docx` file. I highlighted the relevant infos in each exercice such as Entities, Attributes, Relationships, Constraints, etc.
+
+![MS Word](./Word.png)
+
 ## Demo
 
 for the Data Modeling, I used DrawSQL website to create ERDs.
 
-![DrawSQL Website](./Draw%20SQL%20Website.png)
+![DrawSQL Website](./Draw-SQL-Website.png)
 
 The Website offers apowerful features such as extracting the Data Model into various formats such as JSON, MySQL, PostgreSQL, SQL Sever and more.
 
-![Export Settings](./Export%20Settings.png)
+![Export Settings](./Export-Settings.png)
 
 In the figures below, I demostrate some examples of ERDs created using the SQL Draw Website
 
